@@ -10,7 +10,8 @@ These instructions will get you a copy of the project up and running on your loc
 
   1. First Clone the project to your local machine using following command
 
-  ```    git clone https://github.com/nazmul49/AngulaJSProject.git
+  ```    
+	git clone https://github.com/nazmul49/AngulaJSProject.git
   ```
   2. Goto the directory
 
